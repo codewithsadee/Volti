@@ -1,0 +1,228 @@
+Volti - Book Your Eco-Friendly Ride
+
+This is a vahicle charging html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = volti home
+
+Home
+Services
+Gallery
+Blog
+Contact Us
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+
++(123) 1234-567-8901
+
+Get a quote
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+aria-label = toggle menu
+
+<ion-icon name="menu-outline" aria-hidden="true" class="open"></ion-icon>
+<ion-icon name="close-outline" aria-hidden="true" class="close"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Book Your 
+New Eco-Friendly 
+Ride.
+
+<ion-icon name="speedometer-outline" aria-hidden="true"></ion-icon>
+Top speed
+80 km/h
+
+<ion-icon name="stopwatch-outline" aria-hidden="true"></ion-icon>
+0-40 km/hr in
+3.3 sec
+
+<ion-icon name="checkmark-done-circle-outline" aria-hidden="true"></ion-icon>
+Certified Range
+116 km
+
+Book Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = Bike
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+What We Do!
+
+Our mission is to put an electric vehicle charge
+
+Charge your electric vehicle at home using one of our smart home char ge solutions or gain access to over 3,000 public charging.
+
+<ion-icon name="bonfire-outline" aria-hidden="true"></ion-icon>
+Zero contact travel
+
+We love our customers and we love the way they come.
+
+<ion-icon name="document-text-outline"></ion-icon>
+No Driving License
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+Detachable battery, take home and charge in 3 hours.
+
+
+Enjoy a hassle-free ride by charging just for 3 hours.
+
+Read More
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- STATS ----------#
+
+650m
+Check charge status remotely through Ether app
+
+564+
+
+125k
+
+alt = Video banner
+
+aria-labe = play video
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+
+
+#---------- SERVICE ----------#
+
+What We Do!
+
+What Advantages Will You Get Using An Escooter?
+
+Recoverable Energy
+
+Charge Your Electric Vehicle At Home Using One Of Our Smart.
+<ion-icon name="car-outline" aria-hidden="true"></ion-icon>
+
+Quick Installation
+<ion-icon name="compass-outline" aria-hidden="true"></ion-icon>
+
+Zero Contact Travel
+<ion-icon name="bonfire-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+Designed for the our roads.
+
+Consectetur adipiscing elit sed do tempor labor dolore magna aliqua quis suspendisse.
+
+Book Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = cta banner
+
+
+
+#---------- BLOG ----------#
+
+Fresh News
+
+Our recent article for the electric vehicle systems
+
+View More Blog
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = Energy Star Certified Electric Vehicle Chargers
+
+03 Jun 2022
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Admin
+
+<ion-icon name="chatbubble-outline" aria-hidden="true"></ion-icon>
+2 Comments
+
+Energy Star Certified Electric Vehicle Chargers
+
+Charging Solution For Electric Car & Hybrid Car
+
+Home Charging Station For A Electric Vehicless
+
+
+
+#---------- CONTACT ----------#
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Hot Line
++(01) 1234-57-890
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+E-mail Address
+voltiinfo@gmail.com
+
+<ion-icon name="compass-outline" aria-hidden="true"></ion-icon>
+Our Location
+101 Avenue, S.E. USA
+
+
+
+#---------- FOOTER ----------#
+<ion-icon name="mail-unread-outline" aria-hidden="true"></ion-icon>
+Sign up for Electric Car,news & inslights
+
+Email address
+placeholder = Email address
+
+Subscribe
+
+Volti WP Theme
+
+A leading developer of A-grade commercial, electric car and bike projects in USA. Since its foundation the company has doubled its turnover year on year, with its staff numbers.
+
+Get a quote
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Company Info
+
+About Us
+Our Projects
+Meet Our Team
+News & Media
+Contact Us
+Careers
+
+Quick Contact
+2307 Beverley Rd Brooklyn, New York 11226 United States.
+
+If you have any questions or need help, feel free to contact with our team.
+
+(002) 01061245741
+
+Where to Find Us 
+Terms of Payment 
+Stats Element
+Made with love @codewithsadee
+
+alt = Volti home
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-youtube" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-linkedin" aria-hidden="true"></ion-icon>
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = go to top
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
